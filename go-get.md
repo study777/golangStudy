@@ -43,10 +43,26 @@ go get github.com/mattn/go-sqlite3
 
 
 
+sqlite3 安装
+
+Sqlite3文件下载：
+
+1.下载 sqlite-dll-win32-x86-3140100
+
+2.下载 sqlite-tools-win32-x86-3140100
+
+安装：
+
+先在C盘建一个文件夹 sqlite，
+
+1.把 sqlite-dll-win32-x86-3140100 中解压出来的两个文件（sqlite3.def 和 sqlite3.dll）复制到刚才新建的目录（C:\sqlite）中
+
+2.把 sqlite-tools-win32-x86-3140100 中解压出来的文件 sqlite3.exe 复制到C:\sqlite 目录中
+
+3.添加系统环境变量， 在Path变量值后面添加 C:\sqlite（分号不要忘记了），如下图所示：
 
 
-
-
+sqlite3 --version
 
 
 
