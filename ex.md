@@ -1,6 +1,6 @@
 ### InterfaceByName
 
-```
+
 package main
 
 import (
@@ -12,4 +12,3 @@ func main() {
 
         fmt.Println(net.InterfaceByName("ens33"))
 }
-```
