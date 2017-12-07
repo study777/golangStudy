@@ -8,7 +8,7 @@
 * [第二章    kvm8  虚拟机相关内容](kvm8.md)
 * [第三章  golang 网络相关](net.md)
   * [第一节 准备联系](ex.md)
-  * [通过名字找网卡](InterfaceByName.md)
+     * [通过名字找网卡](ex.md# InterfaceByName)
 
 
 
