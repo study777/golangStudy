@@ -9,6 +9,8 @@
 * [第三章  golang 网络相关](net.md)
   * [第一节 准备联系](ex.md)
      * [通过名字找网卡](ex.md# InterfaceByName)
+     * [为指定的网卡设置ip](ex.md# NetworkLinkAddIp)
+
 
 
 
