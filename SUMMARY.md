@@ -8,15 +8,10 @@
 * [第二章    kvm8  虚拟机相关内容](kvm8.md)
 * [第三章  golang 网络相关](net.md)
   * [第一节 准备联系](ex.md)
-     * [通过名字找网卡](ex.md# InterfaceByName)
-     * [为指定的网卡设置ip](ex.md# NetworkLinkAddIp)
-
-
-
-
-
-
-
+    * [通过名字找网卡](ex.md# InterfaceByName)
+    * [为指定的网卡设置ip](ex.md# NetworkLinkAddIp)
+* [第四章  flag](flag.md)
+    
 
 
 
